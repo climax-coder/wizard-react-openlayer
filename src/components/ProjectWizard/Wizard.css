@@ -1,0 +1,19 @@
+.custom-datepicker {
+  padding: 8px;
+  width: 100%;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}
+
+.react-datepicker-wrapper {
+  width: 100%
+}
+
+.react-datepicker__tab-loop {
+  position: relative;
+}
+
+.react-datepicker-popper {
+  top: 10px !important;
+  transform: none !important;
+}
