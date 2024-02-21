@@ -4,6 +4,7 @@ import Home from "../pages/Home";
 import Dashboard from "../pages/Dashboard";
 import Projects from "../pages/Projects";
 import ProjectDetails from "../pages/ProjectDetails";
+import Team from "../pages/Team";
 import NotFound from "../pages/NotFound";
 
 const AppRouter = () => {
@@ -13,7 +14,7 @@ const AppRouter = () => {
       <Route path="/dashboard" exact Component={Dashboard} />
       <Route path="/projects" exact Component={Projects} />
       <Route path="/projects/:id" Component={ProjectDetails} />
-      <Route path="/create" Component={CreateProject} />
+      <Route path="/team" Component={Team} />
       <Route path="*" Component={NotFound} />
     </Routes>
   );
