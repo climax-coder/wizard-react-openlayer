@@ -46,3 +46,13 @@ Currently, two official plugins are available:
 3. Jotai
 4. Chakra UI
 5. OpenLayers
+
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/6c9ea55f-6701-419a-b984-5ee1d1b12be6)
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/900b1684-a3e4-409a-a7f7-90c75772ba07)
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/7eb0523e-7760-41d2-9ceb-9ee1cce280c2)
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/ab14f86a-6ebe-4f10-9ff7-0ef91b91a534)
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/10b985fa-95ad-43ad-a787-695cb3f741c2)
+![image](https://github.com/seniorprodev/wizard-react-openlayer/assets/108979490/c19e87d4-0bd8-488a-bef4-fa1ec120d8f1)
+
+
+
