@@ -32,21 +32,17 @@ Currently, two official plugins are available:
 
 # Usage
 
-To run the project and explore the new features:
+### To run the project and explore the new features:
 
-Clone the repository to your local machine.
-https://github.com/seniorprodev/wizard-react-openlayer
-Install dependencies using "npm install".
-Start the development server with "npm run dev".
+1. Clone the repository to your local machine.
+   https://github.com/seniorprodev/wizard-react-openlayer
+2. Install dependencies using "npm install".
+3. Start the development server with "npm run dev".
 
 # Technologies
 
-### React
-
-### React Query
-
-### Jotai
-
-### Chakra UI
-
-### OpenLayers
+1. React + Vite
+2. React Query
+3. Jotai
+4. Chakra UI
+5. OpenLayers
