@@ -6,7 +6,7 @@ import Header from "./components/Navbar/Header";
 
 function App() {
   return (
-    <ChakraProvider theme={customTheme}>
+    <ChakraProvider>
       <Router>
         <Header />
         <AppRouter />
